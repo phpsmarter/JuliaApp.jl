@@ -1,0 +1,13 @@
+name = "JuliaApp"
+uuid = "b2e1c661-00f6-430c-85d9-41e3def50c98"
+authors = ["zhy"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
