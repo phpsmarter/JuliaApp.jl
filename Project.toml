@@ -3,6 +3,12 @@ uuid = "b2e1c661-00f6-430c-85d9-41e3def50c98"
 authors = ["zhy"]
 version = "0.1.0"
 
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+
 [compat]
 julia = "1"
 
